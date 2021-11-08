@@ -37,7 +37,7 @@
 	</developers>
 
 	<scm>
-		<connection>scm:git:git://github.com/ctrueden/finite-state-machines</connection>
+		<connection>scm:git:https://github.com/ctrueden/finite-state-machines</connection>
 		<developerConnection>scm:git:git@github.com:ctrueden/finite-state-machines</developerConnection>
 		<tag>HEAD</tag>
 		<url>https://github.com/ctrueden/finite-state-machines</url>
